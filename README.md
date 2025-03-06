@@ -1,4 +1,4 @@
-# PhoneApp
+# PhoneApp 📱
 A mini iOS contact management app that allows users to add, edit, and customize contacts with a name, phone number, and a color-coded avatar. It uses 3 main screens:
   1. List of the contacts
   2. Screen for editing existing contact

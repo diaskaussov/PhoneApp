@@ -57,7 +57,6 @@ A mini iOS contact management app that allows users to add, edit, and customize 
   - Implements protocol-based communication to pass updated data back to the Main Screen.
     
 <p align="middle">
-<img src="https://github.com/user-attachments/assets/03725e1c-317b-4439-93e4-857939596cb0" width="191.17" height="400" />
 <img src="https://github.com/user-attachments/assets/91b6ef85-7e7e-4b4b-86f7-2006ee9abed9" width="191.17" height="400" />
 <img src="https://github.com/user-attachments/assets/e7d4f550-fc0e-43a6-8e81-45edb624575c" width="191.17" height="400" />
 <img src="https://github.com/user-attachments/assets/2013e805-702f-4e94-bbab-75fa4d1abf9c" width="191.17" height="400" />
